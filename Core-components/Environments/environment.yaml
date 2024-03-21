@@ -1,0 +1,9 @@
+environment:
+  name: kube-infra
+  identifier: kube-infra
+  description: Environment to deploy applications
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: <Add project name here>
+  variables: []
